@@ -257,7 +257,7 @@ $("#registrationForm").on("submit", function (e) {
     // $('.selectpicker').selectpicker('deselectAll');
 
     const scriptURL =
-      "https://script.google.com/macros/s/AKfycbxY72GT00NsYnajverWRwdJtFJiwvZeaUO8u2vL4eLFWPkcsLeQZea7LCE67H9EgAVu/exec";
+      "https://script.google.com/macros/s/AKfycbz6jRjmOLc2CUiNpNh0zO-KAxEsCe6slSa2aR8xhjxg0sa_nJLVbShuiTplYHVqAVYv/exec";
 
     (async () => {
       try {
